@@ -4,4 +4,8 @@ Open Repository
 Open a second Branch
 Push a single page to Git-Task-1 Repository
 Page should have:
--Full name, email,slack username, tracks and Courses
+-Full name, 
+-email
+-Slack username
+-Tracks
+-Courses
